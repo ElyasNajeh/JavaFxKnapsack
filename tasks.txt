@@ -1,0 +1,21 @@
+20 20
+Morning Workout,1.5,25
+Breakfast And Planning,1.0,15
+Study Algorithms,3.0,60
+Watch Lectures,2.5,45
+Trainings And Practice,2.0,50
+Work on Project,3.5,70
+Debug Code,2.0,55
+Team Discussion,1.5,40
+Research And Reading,1.5,35
+UI Design Improvements,2.0,48
+Database Maintenance,1.5,42
+Testing And Review,1.0,38
+Documentation Update,1.0,30
+Client Feedback Fixes,1.5,46
+Refactor Old Code,1.5,44
+Plan Next Sprint,1.0,33
+Evening Walk,1.0,20
+Read Tech Articles,1.0,25
+Brainstorm New Ideas,1.5,30
+Relax And Unwind,1.5,18
